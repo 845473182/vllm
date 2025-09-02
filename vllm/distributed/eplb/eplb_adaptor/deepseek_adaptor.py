@@ -15,8 +15,6 @@
 # This file is a part of the vllm-ascend project.
 #
 
-import torch
-
 from vllm.distributed.eplb.eplb_adaptor.eplb_adaptor import EplbAdaptor
 
 
